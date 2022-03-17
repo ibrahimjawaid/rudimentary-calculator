@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rudimentary-calculator/static/css/main.c64afbaf.css",
+    "main.js": "/rudimentary-calculator/static/js/main.96d8fe55.js",
+    "index.html": "/rudimentary-calculator/index.html",
+    "main.c64afbaf.css.map": "/rudimentary-calculator/static/css/main.c64afbaf.css.map",
+    "main.96d8fe55.js.map": "/rudimentary-calculator/static/js/main.96d8fe55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64afbaf.css",
+    "static/js/main.96d8fe55.js"
+  ]
+}
